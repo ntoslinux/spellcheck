@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Testt sample errorr
+// testt sample errorr
 
 int main()
 {
